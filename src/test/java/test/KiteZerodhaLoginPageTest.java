@@ -55,10 +55,4 @@ public class KiteZerodhaLoginPageTest {
 			
 		kitezerodhaloginpage.clickOniOSLink();			
 	}	
-	
-	@Test(priority = 2)
-	public void t()
-	{
-		System.out.println("a");
-	}
 }
